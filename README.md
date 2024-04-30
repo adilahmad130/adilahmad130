@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/adilahmad130/adilahmad130/blob/main/github-header-image%20.png)]
+![MasterHead](https://github.com/adilahmad130/adilahmad130/blob/main/github-header-image%20.png)
 <h1 align="center">Hi 👋, I'm  Adil Ahmad</h1>
 <h3 align="center">A Passionate Software Developer and a Machine Learning Enthusiast from India.</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://images.app.goo.gl/Sn98PhseY9GzED5q9"> 
